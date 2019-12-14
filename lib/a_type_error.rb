@@ -1,4 +1,4 @@
-1 + 1
+puts 1 + 1
 
-"one" + "is the loneliest number"
+puts "one" + "is the loneliest number"
 
